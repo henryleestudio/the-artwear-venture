@@ -12,12 +12,4 @@ A remix recreation of an existing modern website's layout. "The Artwear Venture,
 
 
 
-Feel free to take a look at a few of my other projects here! 
-**profolio Wesbite:** https://henrylee.studio/
-
-
-
-
-
-
-commit text Added information and links about the project
+Feel free to take a look at my **portfolio website:** https://henrylee.studio/
