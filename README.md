@@ -4,7 +4,7 @@ A remix recreation of an existing modern website's layout. "The Artwear Venture,
 
 **Link to project:** https://henryleestudio.github.io/the-artwear-venture/
 
-![alt tag](https://henrylee.studio/img/venture-mockups.png)
+![venture-mockups](https://user-images.githubusercontent.com/101936420/164995585-27a772ea-9bb3-4e63-9c1c-7f10f302c12a.png)
 
 **Project Attributes:** HTML | CSS | Media Queries | Graphic Design | Creative Direction | Branding | Business
 
